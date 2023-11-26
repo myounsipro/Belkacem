@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Belkacem/static/css/main.9f359bfd.css",
-    "main.js": "/Belkacem/static/js/main.7a63607b.js",
+    "main.js": "/Belkacem/static/js/main.b1539933.js",
     "static/js/787.6a94f34f.chunk.js": "/Belkacem/static/js/787.6a94f34f.chunk.js",
+    "static/media/crayon.svg": "/Belkacem/static/media/crayon.25a92b704c2a2b77ed745d48a5f4a719.svg",
     "static/media/color-sharp.png": "/Belkacem/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Belkacem/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/Belkacem/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/header-img.svg": "/Belkacem/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/Belkacem/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Belkacem/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Belkacem/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -28,11 +28,11 @@
     "static/media/arrow1.svg": "/Belkacem/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Belkacem/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.9f359bfd.css.map": "/Belkacem/static/css/main.9f359bfd.css.map",
-    "main.7a63607b.js.map": "/Belkacem/static/js/main.7a63607b.js.map",
+    "main.b1539933.js.map": "/Belkacem/static/js/main.b1539933.js.map",
     "787.6a94f34f.chunk.js.map": "/Belkacem/static/js/787.6a94f34f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f359bfd.css",
-    "static/js/main.7a63607b.js"
+    "static/js/main.b1539933.js"
   ]
 }
