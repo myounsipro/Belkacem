@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Belkacem/static/css/main.68538960.css",
-    "main.js": "/Belkacem/static/js/main.5db81986.js",
+    "main.js": "/Belkacem/static/js/main.e89853c6.js",
     "static/js/787.6a94f34f.chunk.js": "/Belkacem/static/js/787.6a94f34f.chunk.js",
     "static/media/crayon.svg": "/Belkacem/static/media/crayon.25a92b704c2a2b77ed745d48a5f4a719.svg",
     "static/media/color-sharp.png": "/Belkacem/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Belkacem/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img2.png": "/Belkacem/static/media/project-img2.4b98b9786898180c1acb.png",
+    "static/media/project-img1.png": "/Belkacem/static/media/project-img1.ebd9b36ca5ada1f54355.png",
     "static/media/banner-bg.png": "/Belkacem/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/CentraNo2-Bold.ttf": "/Belkacem/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Belkacem/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Belkacem/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/project-img1.png": "/Belkacem/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/Belkacem/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img2.png": "/Belkacem/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img3.png": "/Belkacem/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/Belkacem/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/Belkacem/static/media/revicons.a77de540a38981833f9e.eot",
@@ -28,11 +28,11 @@
     "static/media/arrow1.svg": "/Belkacem/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Belkacem/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.68538960.css.map": "/Belkacem/static/css/main.68538960.css.map",
-    "main.5db81986.js.map": "/Belkacem/static/js/main.5db81986.js.map",
+    "main.e89853c6.js.map": "/Belkacem/static/js/main.e89853c6.js.map",
     "787.6a94f34f.chunk.js.map": "/Belkacem/static/js/787.6a94f34f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68538960.css",
-    "static/js/main.5db81986.js"
+    "static/js/main.e89853c6.js"
   ]
 }
