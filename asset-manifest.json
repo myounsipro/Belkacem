@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Belkacem/static/css/main.8243e369.css",
-    "main.js": "/Belkacem/static/js/main.2c4f4cd3.js",
+    "main.css": "/Belkacem/static/css/main.8bec5d36.css",
+    "main.js": "/Belkacem/static/js/main.d7d3ee38.js",
     "static/js/787.6a94f34f.chunk.js": "/Belkacem/static/js/787.6a94f34f.chunk.js",
     "static/media/crayon.svg": "/Belkacem/static/media/crayon.25a92b704c2a2b77ed745d48a5f4a719.svg",
     "static/media/color-sharp.png": "/Belkacem/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -27,12 +27,12 @@
     "static/media/arrow2.svg": "/Belkacem/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Belkacem/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Belkacem/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.8243e369.css.map": "/Belkacem/static/css/main.8243e369.css.map",
-    "main.2c4f4cd3.js.map": "/Belkacem/static/js/main.2c4f4cd3.js.map",
+    "main.8bec5d36.css.map": "/Belkacem/static/css/main.8bec5d36.css.map",
+    "main.d7d3ee38.js.map": "/Belkacem/static/js/main.d7d3ee38.js.map",
     "787.6a94f34f.chunk.js.map": "/Belkacem/static/js/787.6a94f34f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8243e369.css",
-    "static/js/main.2c4f4cd3.js"
+    "static/css/main.8bec5d36.css",
+    "static/js/main.d7d3ee38.js"
   ]
 }
